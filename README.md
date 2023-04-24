@@ -1,16 +1,21 @@
-### Hi there 👋
+
+ ### Hi there, i'm Samuel👋
 
 <!--
-**Samadeolu7/samadeolu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mersaii/mersaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+😄 Pronouns: He/Him
+🔭 I’m currently working on completing my computer science degree.
+👯 I’m looking to collaborate on open source projects.
+  
+###🌱 What have I done so far? 
+- Developed a quiz app with flask.
+- Worked with a team that developed a website with WIX called FEM-ERGY that was 1 of the 7 winners of a Major League Hackathon.
+- Developed a recipe web application with flask.
+- Developed a movie gallery with html, css, and javascript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###⚡ Fun fact: I love sports and i dance all the time even though i dont know how.
+  
+###📫 How to reach me: 
+- [Github](https://github.com/samadeolu7) 
+- [LinkedIn](https://www.linkedin.com/in/samueladeadeyemi/)
