@@ -14,7 +14,7 @@
 - Developed a recipe web application with flask.
 - Developed a movie gallery with html, css, and javascript.
 
-###⚡ Fun fact: I love sports and i dance all the time even though i dont know how.
+###⚡ Fun fact: I love watching movies but only watch movies with rating higher than 6.5/10 on IMDB.
   
 ###📫 How to reach me: 
 - [Github](https://github.com/samadeolu7) 
