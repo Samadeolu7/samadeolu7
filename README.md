@@ -9,6 +9,9 @@
 👯 I’m looking to collaborate on open source projects.
   
 ###🌱 What have I done so far? 
+- Developed an ERP using Django for a Start up Company
+- Had my PR merged into Zulip
+- Created a Database management Tool using Flask for a Start up Company
 - Developed a quiz app with flask.
 - Worked with a team that developed a website with WIX called FEM-ERGY that was 1 of the 7 winners of a Major League Hackathon.
 - Developed a recipe web application with flask.
